@@ -7,6 +7,7 @@ import { Font } from 'expo';
 
 export default class App extends React.Component {
 
+    //
     constructor(props) {
         super(props);
 
